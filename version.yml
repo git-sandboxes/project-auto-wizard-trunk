@@ -54,6 +54,6 @@ metadata:
       develop: "main"
       mode: "trunk-based" # pr-flow | trunk-based
     options:
-      semver_auto: true
+      semver_auto: false
       copilot_ai: false
       release_automerge: true
